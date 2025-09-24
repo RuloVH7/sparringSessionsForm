@@ -86,8 +86,8 @@ Tested with real users and scalable for other sports or event types (MMA, fitnes
 
 ## 📬 Contact
 
-For demos, licensing, or custom builds:  
-📧 [hydrai.connections@gmail.com](mailto:hydrai.connections@gmail.com)
+For demos or custom builds:  
+📧 [contact@hydraiconnections.com](mailto:contact@hydraiconnections.com)
 
 
 
