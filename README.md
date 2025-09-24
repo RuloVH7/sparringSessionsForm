@@ -48,18 +48,6 @@ The entire system is automated and scalable for multiple events.
 
 ---
 
-## 📬 Form Fields
-
-- Full name  
-- Age  
-- Weight and category  
-- Phone or email  
-- City  
-- Available date  
-- (Optional: gym affiliation, experience, etc.)  
-
----
-
 ## 🧾 PDF Content (Customized)
 
 - Boxer's name  
