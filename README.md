@@ -1,4 +1,4 @@
-# Welcome to Poke Project! 👋
+
 
 ![vscoed](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/google_forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white) 
@@ -37,16 +37,7 @@ Tested with real users. Ready for use in other sports, seminars, or training eve
 
 ---
 
-## 📂 Folder Structure
 
-```plaintext
-📁 automation/
-├── registration_flow.make.json   # Make.com scenario
-├── pdf_template.docx             # Google Docs template (PDF generation)
-├── README.md                     # Project documentation
-```
-
----
 
 ## 📬 Contact
 
