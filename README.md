@@ -15,14 +15,14 @@ The entire system is automated and scalable for multiple events.
 
 ## 🧩 General System Flow
 
-- **Data entry** The boxer fills out a form with their personal information (name, weight, city, contact info, etc.).
+- **Data entry:** The boxer fills out a form with their personal information (name, weight, city, contact info, etc.).
 
-- **Confirmation to participant** Once submitted:
+- **Confirmation to participant:** Once submitted:
 
   - They receive a personalized welcome/confirmation message.
   - A custom PDF is generated with all event details using their submitted data.
 
-- **Internal automatic registration** The data is logged in a Google Sheet controlled by the event organizer, maintaining a clear and updated registry of all entries.
+- **Internal automatic registration:** The data is logged in a Google Sheet controlled by the event organizer, maintaining a clear and updated registry of all entries.
 
 ## 🚀 Features
 
