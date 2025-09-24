@@ -4,24 +4,79 @@
 ![vscoed](https://img.shields.io/badge/google_forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white) 
 
 
-Whether you are a fellow data analyst, a curious researcher, or a Pokémon enthusiast, I invite you to join me in this captivating journey of data-driven exploration. May this documentation inspire and empower you to embark on your data analysis adventures, unlocking the potential of data and discovering the mysteries that lie within the Pokémon realm. Happy exploring!
+🧠 Project Summary
 
-📝 Open the .ipynb file to explore the code and process.
+An automated registration system was developed for boxers interested in a training course or sporting event. Through a smart form, participants submit their personal data and immediately receive:
 
-## 📉 Dataset
+A personalized confirmation message
 
-The dataset consist of raw data from all the pokémon from the 1st to the 6th generation exclusively.  You can find the dataset attached to this repository.
+A PDF with all the event information
 
-## 📚 Documentation
+Meanwhile, the organizer receives all participant data in a Google Sheet to keep a real-time list of registered athletes
 
-[Panda's User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide)
+The entire system is automated and scalable for multiple events.
 
-[Python User Guide](https://www.python.org/doc/)
+🧩 General System Flow
 
-[Seaborn User Guide](https://seaborn.pydata.org/tutorial.html)
+Data entry
+The boxer fills out a form with their personal information (name, weight, city, contact info, etc.).
 
-[GitHub User Guide](https://docs.github.com/es)
+Confirmation to participant
+Once submitted:
 
+They receive a personalized welcome/confirmation message.
+
+A custom PDF is generated with all event details using their submitted data.
+
+Internal automatic registration
+The data is logged in a Google Sheet controlled by the event organizer, maintaining a clear and updated registry of all entries.
+
+🔧 Technologies Used
+Tool	Main Function
+Make.com	Automation engine to orchestrate the entire flow
+Google Forms or Typeform	Data collection from the boxer
+Google Sheets	Centralized database for the organizer
+Google Docs + PDF Gen	Automated creation of personalized PDF via Make
+Gmail / WhatsApp (optional)	Sends confirmation and PDF to each participant
+📬 Form Fields
+
+Full name
+
+Age
+
+Weight and category
+
+Phone or email
+
+City
+
+Available date
+
+(Optional: gym affiliation, experience, etc.)
+
+🧾 PDF Content (Customized)
+
+Boxer's name
+
+Registration confirmation
+
+Location and time of event
+
+Requirements or notes from the organizer
+
+Event contact info
+
+Event logo or custom design (optional)
+
+⚡ Automation Benefits
+
+Organizer does not have to manually check or transfer data
+
+Each boxer receives immediate confirmation, increasing professionalism
+
+No registrations are lost, and manual errors are eliminated
+
+The PDF ensures boxers have clear, accurate event information
 
 
 [![linkedin](https://img.shields.io/badge/my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-reyna-hernandez-3a8062134/)
