@@ -1,7 +1,7 @@
 # Welcome to Poke Project! 👋
 
 ![vscoed](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
-![vscoed](https://img.shields.io/badge/google_forms-34A853?style=for-the-badge&logo=googleforms&logoColor=white) 
+![vscoed](https://img.shields.io/badge/google_forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white) 
 
 
 Whether you are a fellow data analyst, a curious researcher, or a Pokémon enthusiast, I invite you to join me in this captivating journey of data-driven exploration. May this documentation inspire and empower you to embark on your data analysis adventures, unlocking the potential of data and discovering the mysteries that lie within the Pokémon realm. Happy exploring!
