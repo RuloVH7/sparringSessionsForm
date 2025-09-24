@@ -5,44 +5,78 @@
 
 # 🥊 Boxing Course Registration Automation
 
-An end-to-end automated registration system for boxing events.  
-Collects participant data, sends a personalized confirmation PDF, and logs the entry into a Google Sheet — all without manual effort.
+An automated registration system was developed for boxers interested in a training course or sporting event. Through a smart form, participants submit their personal data and immediately receive:
+- A personalized confirmation message
+- A PDF with all the event information
+- Meanwhile, the organizer receives all participant data in a Google Sheet to keep a real-time list of registered athletes
+The entire system is automated and scalable for multiple events.
 
 ---
 
 ## 🚀 Features
 
-- 📋 Smart form for boxer data collection
-- 📬 Instant confirmation message to the participant
-- 🧾 Auto-generated PDF with event details
-- 📊 Organizer receives all entries in a real-time Google Sheet
-- ⚙️ Fully automated with Make.com (Integromat)
+- **Smart form** for boxer data collection  
+- **Instant confirmation message** to the participant  
+- **Auto-generated PDF** with event details  
+- **Google Sheet sync** for organizer tracking  
+- **Fully automated** using Make.com  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- [Make.com](https://www.make.com/) – automation orchestrator  
-- Google Forms / Typeform – data input  
-- Google Sheets – registration log  
-- Google Docs (template) – PDF generation  
-- Gmail / WhatsApp (optional) – message delivery
+- [Make.com](https://www.make.com/) – Automation engine  
+- **Google Forms / Typeform** – For collecting boxer info  
+- **Google Sheets** – For managing registered participants  
+- **Google Docs (via Make)** – For PDF creation  
+- **Gmail / WhatsApp (optional)** – For sending confirmations and PDFs  
 
 ---
 
-## ✅ Status
+## 📬 Form Fields
 
-**Live and working.**  
-Tested with real users. Ready for use in other sports, seminars, or training events.
+- Full name  
+- Age  
+- Weight and category  
+- Phone or email  
+- City  
+- Available date  
+- (Optional: gym affiliation, experience, etc.)  
 
 ---
 
+## 🧾 PDF Content (Customized)
+
+- Boxer's name  
+- Registration confirmation  
+- Location and time of event  
+- Requirements or organizer notes  
+- Contact info  
+- Event logo or branding (optional)  
+
+---
+
+## ⚡ Automation Benefits
+
+- Organizer **avoids manual data entry**  
+- Boxers receive **immediate confirmation**  
+- **No missed registrations** or lost info  
+- PDF ensures boxers have **accurate event details**  
+
+---
+
+## ✅ Project Status
+
+**Live and functional.**  
+Tested with real users and scalable for other sports or event types (MMA, fitness, seminars, etc.)
+
+---
 
 
 ## 📬 Contact
 
 For demos, licensing, or custom builds:  
-[hydrai.connections@gmail.com](mailto:hydrai.connections@gmail.com)
+📧 [hydrai.connections@gmail.com](mailto:hydrai.connections@gmail.com)
 
 
 
